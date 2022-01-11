@@ -1,0 +1,7 @@
+#year,facility,accountNumber,FICO,BKRPT,recordCount,defaultCount,defaultDate,defaultBalance,cureDate,origFICO,origBKRPT,faceAmountOfNote,vintage,origLTV,origDTI,origCollateralValue,collateralCode,productCode,ID,enteredDate,age,lienPosition,Customer Balance
+2017,HOF,1,839,973,1,0,,0,,799,0,250000,2012,21.1,50.1,10000,OO01,595,1,3/1/2000,1.2,1,101.1
+2017,HOS,2,683,483,1,0,,0,,825,0,75000,2012,40,60.2,12000,OO02,595,2,4/1/2012,2,2,201.1
+2017,HOF,3,775,837,1,0,,0,,756,0,95000,2012,12.1,70.3,11000,OO01,595,3,2/1/2010,3.2,1,302.2
+2018,HOF,4,,973,1,0,,0,,799,0,150000,2013,22.2,50.1,10000,OO01,595,4,3/1/2000,3.2,1,95.1
+2018,HOS,5,695,483,1,0,,0,,825,0,85000,2014,17.9,60.2,12000,OO02,595,5,4/1/2012,4,2,75.5
+2018,HOF,6,751,,1,0,,0,,756,0,95000,2012,12.1,70.3,11000,OO01,595,6,2/1/2010,1.8,1,50.2
