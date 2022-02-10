@@ -2,7 +2,7 @@ from sklearn.metrics import roc_curve
 from sklearn.metrics import roc_auc_score
 from matplotlib import pyplot
 
-def plot_myroc(sk_probs, cv_probs):
+def plot_myroc(sk_probs, cv_probs, test_y):
     
     # keep probabilities for the positive outcome only
     sk_probs1 = sk_probs[:, 1]
